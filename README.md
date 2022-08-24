@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Ijachiii
+Hi, I'm David
+
 - 👀 I’m interested in joint python coding projects
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on python projects
