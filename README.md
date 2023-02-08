@@ -1,9 +1,9 @@
 Hi, I'm David
 
-- 👀 I’m interested in joint python coding projects
+- 👀 I’m interested in joint Django projects
 - 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me (Phone; +2348126827413, Email: davidaudu1010@gmail.com)
+- 💞️ I’m looking to collaborate projects
+- 📫 How to reach me (Email: davidaudu1010@gmail.com)
 
 <!---
 Ijachiii/Ijachiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
