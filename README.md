@@ -10,7 +10,7 @@ Hi, I'm David
 
 - 👀 I’m interested in joint Django projects
 - 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate projects
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me (Email: davidaudu1010@gmail.com)
 
 
